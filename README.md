@@ -1,70 +1,41 @@
-# Getting Started with Create React App
+# MusicPlay - Music Player
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O MusicPlay redefine a maneira como você desfruta da sua música, trazendo uma combinação de tecnologia avançada e design amigável. Com controles de reprodução intuitivos e recursos poderosos, o MusicPlay é o companheiro perfeito para os amantes da música que desejam uma experiência auditiva excepcional.
 
-## Available Scripts
+## Recursos Principais
 
-In the project directory, you can run:
+- **Reprodução de Música Imersiva:** Desfrute da sua música favorita com uma experiência de reprodução envolvente. Controle a reprodução com facilidade, incluindo tocar, pausar, avançar e retroceder.
 
-### `npm start`
+- **Informações em Tempo Real:** Acompanhe o tempo da música e a duração total com uma barra de progresso visualmente atraente. Saiba exatamente onde você está na faixa com a porcentagem de conclusão exibida.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Biblioteca Musical Abrangente:** Explore e organize sua coleção de músicas com a biblioteca integrada. Navegue por artistas, álbuns ou gêneros e selecione facilmente suas faixas favoritas para reprodução.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- **Troca Automática de Música:** O MusicPlay inicia automaticamente a próxima faixa quando a atual termina, garantindo uma experiência musical contínua.
 
-### `npm test`
+- **Controle de Volume Integrado:** Ajuste o volume das suas músicas diretamente no aplicativo para uma personalização completa da sua experiência auditiva.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Visual Moderno e Atraente:** Com um design elegante e moderno, o MusicPlay oferece uma interface intuitiva que facilita a navegação e o uso do aplicativo.
 
-### `npm run build`
+- **Gerenciamento de Lista de Reprodução:** Crie e gerencie listas de reprodução personalizadas para atender ao seu humor musical. Adicione, reordene e exclua músicas com facilidade.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Tecnologias Utilizadas
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Desenvolvido com **ReactJS**.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Contribuição
 
-### `npm run eject`
+Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga estas etapas:
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua feature (`git checkout -b feature/sua-feature`).
+3. Faça commit das suas mudanças (`git commit -m 'Adicione sua feature'`).
+4. Faça push para a branch (`git push origin feature/sua-feature`).
+5. Abra um pull request.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Contato
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Para qualquer dúvida ou feedback, sinta-se à vontade para entrar em contato:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- [Wesley Oliveira](https://www.linkedin.com/in/wesley-oliveira-47621b137/)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
