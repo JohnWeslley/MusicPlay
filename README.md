@@ -35,7 +35,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga
 
 Para qualquer dúvida ou feedback, sinta-se à vontade para entrar em contato:
 
-- [Wesley Oliveira](https://www.linkedin.com/in/wesley-oliveira-47621b137/)
+- [Wesley Oliveira](https://www.linkedin.com/in/johnweslley65/)
 
 
 
